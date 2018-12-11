@@ -19,7 +19,7 @@
 - have fun
 
 ## Test scenario (+ coverage analysis)
-'''
+```
   Addition operation:
     √ Successful addition of two positive integer numbers: 2 + 2 = 4
     √ Successful addition of two positive integer numbers: -1 + 1 = 0
@@ -74,4 +74,4 @@ All files           |      100 |      100 |      100 |      100 |    |
 calculator.js       |      100 |      100 |      100 |      100 |  |
 calculator.spec.js  |      100 |      100 |      100 |      100 |    |
 --------------------|----------|----------|----------|----------|-------------------|
-'''
+```
