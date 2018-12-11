@@ -1,0 +1,26 @@
+{
+  "name": "tp-mail-qa-unit-testing",
+  "version": "1.0.0",
+  "description": "Test calculator unit testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nyc mocha ./*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorodinDmitriy/tp-mail-qa-unit-testing.git"
+  },
+  "author": "Borodin Dmitriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorodinDmitriy/tp-mail-qa-unit-testing/issues"
+  },
+  "homepage": "https://github.com/BorodinDmitriy/tp-mail-qa-unit-testing#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "nyc": "^13.1.0"
+  }
+}
